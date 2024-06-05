@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhaib3100" alt="suhaib3100" /></a> </p>
 
-- 🔭 I’m currently Founder and CEO on [Protool Tech](Https://protool.tech)
+- 🔭 I’m currently Founder and CEO on [Protool](Https://protool.cloud)
 
 - 🌱 I’m currently learning **Alot of integrated frameworks in js**
 
 - 👯 I’m looking to collaborate on **Any innovation looking forward**
 
-- 👨‍💻 All of my projects are available at [https://protool.tech](https://protool.tech)
+- 👨‍💻 All of my projects are available at [https://protool.cloud](https://protool.cloud)
 
 - 📝 I regularly write articles on [https://sadalink.com](https://sadalink.com)
 
